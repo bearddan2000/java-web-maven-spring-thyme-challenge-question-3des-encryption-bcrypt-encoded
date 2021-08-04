@@ -31,7 +31,7 @@ UserDetailService.
 - maven
 
 ## Docker stack
-- openjdk:8-jdk-alpine
+- maven:3-openjdk-17
 
 ## To run
 `sudo ./install.sh -u`
